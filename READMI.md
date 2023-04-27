@@ -1,0 +1,1 @@
+This is my second try to create react-node app with shopify API
